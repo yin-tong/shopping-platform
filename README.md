@@ -10,7 +10,7 @@
 
 ## 二、技术选型
 
-- 前端：Jsp,BootStrap
+- 前端：Jsp,JQuery,BootStrap
 - 后端：Spring, Spring MVC,Mybatis,Spring Security, PageHelper
 - 数据库：Mysql
 - 编译器：IDEA
